@@ -53,7 +53,7 @@ Plugins/*/Binaries/*
 ExampleUEProject/*
 MenuSystem/*
 UnrealLearningKit/*
-Blaster/Content/Assets/LearningKit_Games/*
+#Blaster/Content/Assets/LearningKit_Games/*
 
 # Builds
 Build/*
