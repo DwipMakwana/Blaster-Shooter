@@ -50,7 +50,6 @@ Binaries/*
 Plugins/*/Binaries/*
 
 # Dependent projects
-UnrealLearningKit/Content/ParagonWraith/*
 UnrealLearningKit/Content/ParagonDekker/*
 
 # Builds
