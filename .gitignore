@@ -50,9 +50,8 @@ Binaries/*
 Plugins/*/Binaries/*
 
 # Dependent projects
-#ExampleUEProject/*
-#MenuSystem/*
-UnrealLearningKit/*
+UnrealLearningKit/Content/ParagonWraith/*
+UnrealLearningKit/Content/ParagonDekker/*
 
 # Builds
 Build/*
