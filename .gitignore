@@ -50,10 +50,9 @@ Binaries/*
 Plugins/*/Binaries/*
 
 # Dependent projects
-ExampleUEProject/*
-MenuSystem/*
+#ExampleUEProject/*
+#MenuSystem/*
 UnrealLearningKit/*
-#Blaster/Content/Assets/LearningKit_Games/*
 
 # Builds
 Build/*
