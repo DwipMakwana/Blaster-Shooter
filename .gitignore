@@ -49,8 +49,7 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/*/Binaries/*
 
-# Dependent projects
-UnrealLearningKit/Content/ParagonDekker/*
+# Exclude
 
 # Builds
 Build/*
