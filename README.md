@@ -1,8 +1,8 @@
 # Blaster--Multiplayer-Shooter-
-A new multiplayer game project on the journey of learning Unreal Engine 5 with C++ and Blueprints.
+Developing various multiplayer logics like lag-compensation, hit-boxes, and server-side using a custom-made multiplayer plugin while using advanced C++ concepts like interfaces, and abstract methods in coherence with blueprints. Also designing clean slate UI and a basic multiplayer level for play-testing between multiple players in Unreal Engine.
 
 ## Motivation
-Developing core mechanics like movements, shooting, animations for various behaviours and advance features like server-side rewind, headshot damage with adding finishing touches like particle effects and VFX for death and pickups like health, shield, etc in Unreal Engine.<br>
+A new multiplayer game project on the journey of learning Unreal Engine 5 with C++ and Blueprints.<br>
 See the project in action here => https://youtube.com/playlist?list=PLCXXIoh9PICXAz0sJXaGVvJW8J4NqX9EX
 
 # Screenshots
