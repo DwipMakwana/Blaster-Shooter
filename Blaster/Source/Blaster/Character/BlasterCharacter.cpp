@@ -677,6 +677,7 @@ void ABlasterCharacter::MoveForward(float Value)
 		const FRotator YawRotation(0.f, Controller->GetControlRotation().Yaw, 0.f);
 		const FVector Direction(FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X));
 		AddMovementInput(Direction, Value);
+		FString::printf(TEXT("%f"), Value);
 	}
 }
 

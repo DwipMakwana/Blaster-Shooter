@@ -67,11 +67,18 @@ bool UMenu::Initialize()
 	return true;
 }
 
+void UMenu::NativeDestruct()
+{
+	MenuTearDown();
+	Super::NativeDestruct();
+}
+
+/*Deprecated after v5.0
 void UMenu::OnLevelRemovedFromWorld(ULevel* InLevel, UWorld* InWorld)
 {
 	MenuTearDown();
 	Super::OnLevelRemovedFromWorld(InLevel, InWorld);
-}
+}*/
 
 void UMenu::OnCreateSession(bool bWasSuccessfull)
 {

@@ -23,7 +23,9 @@ public:
 protected:
 
 	virtual bool Initialize() override;
-	virtual void OnLevelRemovedFromWorld(ULevel* InLevel, UWorld* InWorld) override;
+	virtual void NativeDestruct() override;
+	//Deprecated after v5.0
+	//virtual void OnLevelRemovedFromWorld(ULevel* InLevel, UWorld* InWorld) override;
 
 	//
 	//	Callback for the custom delegates on the MultiplayerSessionsSubsystem
